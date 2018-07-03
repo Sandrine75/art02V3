@@ -1,0 +1,16 @@
+#body {
+  background: rgb(10, 44, 56) none repeat scroll 0% 0% !important;
+  color:#a0762e !important;
+  clear: both;
+  display: block        
+}
+.start{
+  font-size: 20px !important;
+  font-weight: bold;
+  color:yellow !important;
+}
+.p{
+  font-size: 26px !important;
+  font-weight: bold;
+  color:yellow !important;
+}
